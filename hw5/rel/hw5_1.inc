@@ -1,0 +1,5 @@
+
+.data
+
+LenData DWORD 7
+ArrData DWORD 510013h, 10001h, 20003h, 10005h, 510021h, 20001h, 10002h
